@@ -8,3 +8,4 @@ HW2:http://localhost:8890/notebooks/Unit02/2.1_NumPy%E5%92%8C%E9%99%A3%E5%88%97%
 HW3:http://localhost:8888/notebooks/Unit03/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb
     http://localhost:8888/notebooks/Unit03/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb
     http://localhost:8888/notebooks/Unit03/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb
+HW4:http://localhost:8889/notebooks/Unit04/Unit04/Linear%20Regression_HW.ipynb
