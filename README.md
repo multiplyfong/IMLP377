@@ -12,4 +12,7 @@ HW4:http://localhost:8889/notebooks/Unit04/Unit04/Linear%20Regression_HW.ipynb
 
 HW5:http://localhost:8892/notebooks/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb
     http://localhost:8892/notebooks/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb
-
+HW6:http://localhost:8888/notebooks/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb
+    http://localhost:8888/notebooks/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb
+    http://localhost:8888/view/Unit06/Kaggle_titanic.png
+    
